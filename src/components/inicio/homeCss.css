@@ -1,0 +1,35 @@
+.logo{
+    background-image: url("https://andeangreattreks.com/wp-content/uploads/best-peruvian-jungle-destinations-1.jpg");
+    height: 500px;
+    background-size:     cover
+}
+
+.titulo{
+    background-color: white;
+    opacity: 0.6;
+    height: auto;
+}
+
+.palabra_titulo{
+    opacity: 1;
+}
+.imgHome{
+    max-width: 500px;
+    min-width: 200px;
+    box-shadow: 0 0 7px rgba(0, 0, 0, 0.7); 
+}
+.infoNosotros{
+    
+}
+
+.carta{
+    background-color: #4b6f3c;
+}
+
+.carta2{
+    background-color: #5cad2e;
+}
+
+.carta3{
+    background-color: #8ea42d;
+}

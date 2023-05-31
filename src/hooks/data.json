@@ -1,0 +1,102 @@
+{
+    "lista":[
+        {
+            "id":"1",
+            "nom":"tornillo",
+            "corte":"largo",
+            "descripción":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas nobis, delectus impedit nihil optio vero voluptate deleniti veniam officia corporis saepe sapiente numquam provident doloribus alias dolorum dicta excepturi magnam?",
+            "img":"https://madexo.pe/wp-content/uploads/2017/10/tornillo.jpg",
+            "precio":"99"
+        },
+        {
+            "id":"2",
+            "nom":"tornillo",
+            "corte":"corto",
+            "descripción":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas nobis, delectus impedit nihil optio vero voluptate deleniti veniam officia corporis saepe sapiente numquam provident doloribus alias dolorum dicta excepturi magnam?",
+            "img":"https://madexo.pe/wp-content/uploads/2017/10/tornillo.jpg",
+            "precio":"99"
+        },
+        {
+            "id":"3",
+            "nom":"tornillo",
+            "corte":"comercial",
+            "descripción":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas nobis, delectus impedit nihil optio vero voluptate deleniti veniam officia corporis saepe sapiente numquam provident doloribus alias dolorum dicta excepturi magnam?",
+            "img":"https://madexo.pe/wp-content/uploads/2017/10/tornillo.jpg",
+            "precio":"99"
+        },
+        {
+            "id":"4",
+            "nom":"tornillo",
+            "corte":"listoneria",
+            "descripción":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas nobis, delectus impedit nihil optio vero voluptate deleniti veniam officia corporis saepe sapiente numquam provident doloribus alias dolorum dicta excepturi magnam?",
+            "img":"https://madexo.pe/wp-content/uploads/2017/10/tornillo.jpg",
+            "precio":"99"
+        },
+        {
+            "id":"5",
+            "nom":"huayruro",
+            "corte":"largo",
+            "descripción":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas nobis, delectus impedit nihil optio vero voluptate deleniti veniam officia corporis saepe sapiente numquam provident doloribus alias dolorum dicta excepturi magnam?",
+            "img":"https://maderaliaperu.com/wp-content/uploads/2020/01/huayruro-pisos-acabados-lima-peru.jpg",
+            "precio":"99"
+        },
+        {
+            "id":"6",
+            "nom":"huayruro",
+            "corte":"corto",
+            "descripción":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas nobis, delectus impedit nihil optio vero voluptate deleniti veniam officia corporis saepe sapiente numquam provident doloribus alias dolorum dicta excepturi magnam?",
+            "img":"https://maderaliaperu.com/wp-content/uploads/2020/01/huayruro-pisos-acabados-lima-peru.jpg",
+            "precio":"99"
+        },
+        {
+            "id":"7",
+            "nom":"huayruro",
+            "corte":"comercial",
+            "descripción":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas nobis, delectus impedit nihil optio vero voluptate deleniti veniam officia corporis saepe sapiente numquam provident doloribus alias dolorum dicta excepturi magnam?",
+            "img":"https://maderaliaperu.com/wp-content/uploads/2020/01/huayruro-pisos-acabados-lima-peru.jpg",
+            "precio":"99"
+        },
+        {
+            
+            "id":"8",
+            "nom":"huayruro",
+            "corte":"listoneria",
+            "descripción":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas nobis, delectus impedit nihil optio vero voluptate deleniti veniam officia corporis saepe sapiente numquam provident doloribus alias dolorum dicta excepturi magnam?",
+            "img":"https://maderaliaperu.com/wp-content/uploads/2020/01/huayruro-pisos-acabados-lima-peru.jpg",
+            "precio":"99"
+        },
+        {
+            "id":"9",
+            "nom":"capirona",
+            "corte":"largo",
+            "descripción":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas nobis, delectus impedit nihil optio vero voluptate deleniti veniam officia corporis saepe sapiente numquam provident doloribus alias dolorum dicta excepturi magnam?",
+            "img":"https://www.altomaranon.com.pe/files/images/productos/madera_capirona_blanca.jpg",
+            "precio":"99"
+        },
+        {
+            "id":"10",
+            "nom":"capirona",
+            "corte":"corto",
+            "descripción":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas nobis, delectus impedit nihil optio vero voluptate deleniti veniam officia corporis saepe sapiente numquam provident doloribus alias dolorum dicta excepturi magnam?",
+            "img":"https://www.altomaranon.com.pe/files/images/productos/madera_capirona_blanca.jpg",
+            "precio":"99"
+        },
+        {
+            "id":"11",
+            "nom":"capirona",
+            "corte":"comercial",
+            "descripción":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas nobis, delectus impedit nihil optio vero voluptate deleniti veniam officia corporis saepe sapiente numquam provident doloribus alias dolorum dicta excepturi magnam?",
+            "img":"https://www.altomaranon.com.pe/files/images/productos/madera_capirona_blanca.jpg",
+            "precio":"99"
+        },
+        {
+            "id":"12",
+            "nom":"capirona",
+            "corte":"listoneria",
+            "descripción":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas nobis, delectus impedit nihil optio vero voluptate deleniti veniam officia corporis saepe sapiente numquam provident doloribus alias dolorum dicta excepturi magnam?",
+            "img":"https://www.altomaranon.com.pe/files/images/productos/madera_capirona_blanca.jpg",
+            "precio":"99"
+        }
+
+    ]
+}
