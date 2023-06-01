@@ -3,8 +3,8 @@ import  "./contactoCss.css"
 function Contacto() {
   return (
     <div className="container">
-      <div className="row">
-        <div className="col-lg-6 col-12 my-5 text-center">
+      <div className="row rounded shadow" style={{backgroundColor:"rgba(75, 111, 60, 0.1)"}}>
+        <div className="col-lg-6 col-12 my-4 text-center">
           <h4 className="text-center subtitulos">Nuestra hubicación</h4>
         <iframe
           className="rounded shadow "
@@ -13,7 +13,7 @@ function Contacto() {
           loading="lazy"
         ></iframe>
         </div>
-        <div className="col-lg-6 col-12 my-5">
+        <div className="col-lg-6 col-12 my-4">
           <h3 className="my-2 tex-center subtitulos">Contáctanos</h3>
           <p className="texto">Puedes contactarnos por los siguientes medios:</p>
           <div className="d-flex align-items-center my-3">

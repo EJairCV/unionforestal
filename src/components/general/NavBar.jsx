@@ -12,7 +12,7 @@ function NavBar() {
     <>
     <Navbar className='' bg="primary" variant="dark" expand="lg">
     <Container >
-    <NavLink className="navbar-brand" to="/">
+    <NavLink className="navbar-brand" to="/unionforestal">
           Inicio
         </NavLink>
       <Navbar.Toggle aria-controls="navbarScroll" />
@@ -28,14 +28,14 @@ function NavBar() {
           <NavLink className="nav-link" to="/contacto">Contactanos</NavLink>
           
         </Nav>
-        <Form className="d-flex">
+        <Form className="ml-lg-5 d-flex">
           <Form.Control
             type="search"
             placeholder="Search"
             className="me-2"
             aria-label="Search"
           />
-          <Button  variant="outline-dark">Buscar</Button>
+          <Button  variant="outline-dark ml-lg-5">Buscar</Button>
         </Form>
       </Navbar.Collapse>
     </Container>

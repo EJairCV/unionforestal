@@ -16,7 +16,7 @@ function App() {
       <BrowserRouter>
       <NavBar></NavBar>
         <Routes>
-          <Route path='/' element={<Home></Home>}></Route>
+          <Route path='/unionforestal/' element={<Home></Home>}></Route>
           <Route path='/catalogo' element={<MaderaLista></MaderaLista>}></Route>
           <Route path='/contacto' element={<Contacto></Contacto>}></Route>
           <Route path='/info/:id' element={<MaderaInfo></MaderaInfo>}></Route>
