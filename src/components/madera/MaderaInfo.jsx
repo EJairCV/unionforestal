@@ -11,7 +11,10 @@ function MaderaInfo() {
         <h3>Madera de tornillo</h3>
         <h5>Bloque comecial</h5>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit omnis expedita accusantium impedit esse facilis nihil, odio eum neque dignissimos eveniet, veniam exercitationem voluptas sequi sint nostrum! Dolor, modi eos.</p>
-        <button className='btn btn-primary'> Solicitar via wsp </button>
+
+        
+         Cantidad  <input type="number" style={{width:"70px"}} className='' />
+         <a className='btn btn-primary mx-2'target="_blank" href="https://api.whatsapp.com/send?phone=51926667490&text=hola!+me+interesa+este+producto%3A+Madera+de+tornillo+de+bloque+comecial+,+con+la+cantidad+de+10">Solicitar via wsp</a>
       </div>
       </div>
       
